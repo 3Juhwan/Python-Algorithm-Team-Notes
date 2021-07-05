@@ -15,11 +15,20 @@
 
 ### Data Structure
 
+- Segment Tree
+- Trie
+
 ### Graph
 
 - Dijkstra Shortest Path
 - Floyd–Warshall algorithm
 
+### Prefix Sum
+
+### Combination
+
 ### Others
 
 - Matrix Rotation
+- Prime Number
+- Two Pointer
