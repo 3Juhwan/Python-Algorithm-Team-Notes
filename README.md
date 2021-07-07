@@ -34,7 +34,7 @@
 ### Math
 
 - [Prime Number](/Math/prime_number.py)
-- Sieve of Eratosthenes
+- [Sieve of Eratosthenes](/Math/sieve_of_eratosthenes.py)
 
 ### Others
 
