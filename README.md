@@ -20,15 +20,22 @@
 
 ### Graph
 
+- Breadth-First Search
+- Depth-First Search
 - Dijkstra Shortest Path
 - Floyd–Warshall algorithm
 
 ### Prefix Sum
 
+- Two Pointer
+
 ### Combination
+
+### Math
+
+- [Prime Number](/Math/prime_number.py)
+- Sieve of Eratosthenes
 
 ### Others
 
 - Matrix Rotation
-- Prime Number
-- Two Pointer
