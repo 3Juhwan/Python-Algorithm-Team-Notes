@@ -7,8 +7,8 @@
 ### Python Standard Library
 
 - Built-in Functions
-- [itertools](/'Python Standard Library'/itertools.py)
-- [heapq](/'Python Standard Library'/heapq.py)
+- [itertools](/Python%20Standard%20Library/itertools.py)
+- [heapq](/Python%20Standard%20Library/heapq.py)
 - bisect
 - collections
 - math
