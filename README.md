@@ -9,7 +9,7 @@
 - Built-in Functions
 - [itertools](/Python%20Standard%20Library/itertools.py)
 - [heapq](/Python%20Standard%20Library/heapq.py)
-- bisect
+- [bisect](/Python%20Standard%20Library/bisect.py)
 - collections
 - math
 
