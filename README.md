@@ -15,7 +15,7 @@
 
 ### Data Structure
 
-- Segment Tree
+- [Segment Tree](/Data%20Structure/segment_tree.py)
 - Trie
 
 ### Graph
