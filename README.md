@@ -13,6 +13,12 @@
 - collections
 - math
 
+### Sorting
+
+- Merge Sort(/Sorting/merge_sort.py)
+- Quick Sort
+- Counting Sort
+
 ### Data Structure
 
 - [Segment Tree](/Data%20Structure/segment_tree.py)
@@ -40,3 +46,4 @@
 
 - [Matrix Rotation](/Others/matrix_rotation.py)
 - [Matrix Elements Rotation](/Others/matrix_elements_rotation.py)
+- [Coordinate Compression](/Others/coordinate_compression.py)
