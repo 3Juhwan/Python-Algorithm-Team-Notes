@@ -15,7 +15,7 @@
 
 ### Sorting
 
-- Merge Sort(/Sorting/merge_sort.py)
+- [Merge Sort](/Sorting/merge_sort.py)
 - Quick Sort
 - Counting Sort
 
